@@ -1,0 +1,3 @@
+TOKEN = '8174224769:AAHz7q4RDFsmlI6Pmd5y0bVWTcrXZtJr5eE'
+DATABASE = 'bot.db' 
+
